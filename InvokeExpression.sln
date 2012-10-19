@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvokeExpression", "src\InvokeExpression\InvokeExpression.csproj", "{DF5F238F-0D4E-449A-AD83-5BE6255FF28D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{7436CD1D-3EA9-4EDE-A71A-DD490D67E70F}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF5F238F-0D4E-449A-AD83-5BE6255FF28D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF5F238F-0D4E-449A-AD83-5BE6255FF28D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF5F238F-0D4E-449A-AD83-5BE6255FF28D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF5F238F-0D4E-449A-AD83-5BE6255FF28D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
